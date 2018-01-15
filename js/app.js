@@ -187,7 +187,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
   //
   return {
     init: function() {
-      output('<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Firefox_Logo%2C_2017.svg" widgth="100" height="100" style="padding: 0px 10px 20px 0px"><h2 style="letter-spacing: 4px">Hamdi Fourati</h2><p>Developer/DevOps</p><p>Enter "help" for more information.</p>');
+      output('<img align="left" src="imgs/profile.png" widgth="100" height="100" style="padding: 0px 10px 20px 0px"><h2 style="letter-spacing: 4px">Hamdi Fourati</h2><p>Developer/DevOps</p><p>Enter "help" for more information.</p>');
     },
     output: output
   }

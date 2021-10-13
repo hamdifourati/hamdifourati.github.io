@@ -136,7 +136,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
           output('https://github.com/hamdifourati');
           break;
         case 'whoami':
-          var result = 'Hamdi Fourati &lt;contact@hamdifourati.info&gt;';
+          var result = 'Hamdi Fourati &lt;contact@hamdifourati.me&gt;';
           output(result);
           break;
         default:
